@@ -1,0 +1,10 @@
+RELEASE=17.1
+CODENAME=rebecca
+EDITION="MATE 64-bit"
+DESCRIPTION="Linux Mint 17.1 Rebecca"
+DESKTOP=MATE
+TOOLKIT=GTK
+NEW_FEATURES_URL=http://www.linuxmint.com/rel_rebecca_mate_whatsnew.php
+RELEASE_NOTES_URL=http://www.linuxmint.com/rel_rebecca_mate.php
+USER_GUIDE_URL=help:linuxmint
+GRUB_TITLE=Linux Mint 17.1 MATE 64-bit

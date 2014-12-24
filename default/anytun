@@ -1,0 +1,5 @@
+# Defaults for anytun initscript
+# sourced by /etc/init.d/anytun
+
+# Additional options that are passed to the Daemon.
+DAEMONOPTS="--username anytun"
